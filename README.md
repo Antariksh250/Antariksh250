@@ -1,7 +1,5 @@
 # Welcome to Antariksh - Beyond Infinity 🚀
 
-![Antariksh Logo](./Antariksh%20Information%20Technology%20FINAL%20LOGO.png)
-
 ---
 
 ### 🌌 About Us
